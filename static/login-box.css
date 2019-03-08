@@ -1,0 +1,10 @@
+#login-box{
+    background-color: lightblue;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0.5em;
+}
+
+#login-box p{
+    text-align: center;
+}
